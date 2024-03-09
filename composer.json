@@ -1,0 +1,19 @@
+{
+    "name": "tech/contact",
+    "description": "this will send email to admin and save contact details in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ABHIMANTU",
+            "email": "abhishekchakrawarti12@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tech\\Contact\\": "src/"
+        }
+    }
+}
